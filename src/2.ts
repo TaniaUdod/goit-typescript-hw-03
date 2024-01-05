@@ -1,5 +1,5 @@
 /*
-  Ваше завдання полягатиме у створенні двох класів – Employee та Manager.
+  Ваше завдання полягатиме у створенні двох класів - Employee та Manager.
 
   Клас Employee повинен включати:
 
@@ -34,6 +34,5 @@ class Employee {
 class Manager extends Employee {
   // Реалізуйте конструктор та збільшіть salary на 10000
 }
-
 
 export {};
